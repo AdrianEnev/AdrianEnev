@@ -14,9 +14,11 @@ const Adrian: Developer = {
 };
 ```
 
-## ⚡GitHub Stats
+# 🚀 Projects
+## 1) 💪 Lunge: AI Fitness Tracker
+Lunge is a smart assistant for fitness and health, combining nutrition, workouts, and progress tracking in one platform. 
+It uses React, Firebase, Node.js, and other technologies!
 
-<a href="https://github.com/AdrianEnev">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=AdrianEnev&count_private=true&hide_border=true&theme=tokyonight&showicons=true" />
-  <img height="180em" marginLeft="10em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianEnev&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=smalltalk,shell,html,scss,css" />
-</a>
+- 🧠 **fitness-tracker-backend** — Node.js/Express API for handling both the mobile and web app  
+- 📱 **fitness-tracker** — UI built with React Native for the mobile app's frontend  
+- 💻 **fitness-tracker-web** — UI built with React for the web app's frontend
