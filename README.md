@@ -19,6 +19,6 @@ const Adrian: Developer = {
 Lunge is a smart assistant for fitness and health, combining nutrition, workouts, and progress tracking in one platform. 
 It uses React, Firebase, Node.js, and other technologies!
 
-- 🧠 **fitness-tracker-server** — Node.js/Express API for handling both the mobile and web app's backend 
-- 📱 **fitness-tracker** — UI built with React Native for the mobile app's frontend  
-- 💻 **fitness-tracker-web** — UI built with React for the web app's frontend
+- 🧠 **Lunge: backend** — Node.js/Express API for handling both the mobile and web app's backend 
+- 📱 **Lunge: frontend (mobile)** — UI built with React Native for the mobile app's frontend  
+- 💻 **Lunge: frontend (web)** — UI built with React for the web app's frontend
