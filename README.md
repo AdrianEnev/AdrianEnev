@@ -22,3 +22,12 @@ It uses React, Firebase, Node.js, and other technologies!
 - 🧠 **Lunge: backend** — Node.js/Express API for handling both the mobile and web app's backend 
 - 📱 **Lunge: frontend (mobile)** — UI built with React Native for the mobile app's frontend  
 - 💻 **Lunge: frontend (web)** — UI built with React for the web app's frontend
+
+## 2) "Booking"
+A simple web app for appointment booking. 
+- Developed for learning purposes
+- Features a simple home page to show services offered and a map for the location
+- Appointments can be booked using a custom-made calendar
+- Users receive an email to verify their appointment
+- Assigned admin accounts can track orders and more
+
