@@ -15,7 +15,7 @@ const Adrian: Developer = {
 ```
 
 # 🚀 Projects
-## 1) 💪 Lunge: AI Fitness Tracker
+## 1) Lunge (AI Fitness Tracker)
 Lunge is a smart assistant for fitness and health, combining nutrition, workouts, and progress tracking in one platform. 
 It uses React, Firebase, Node.js, and other technologies!
 
