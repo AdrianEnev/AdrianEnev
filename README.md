@@ -15,7 +15,13 @@ const Adrian: Developer = {
 ```
 
 # 🚀 Projects
-## 1) Lunge (AI Fitness Tracker)
+##1) Portfolio (work in progress)
+My own personal portfolio, showcasing all my skills and work. 
+Available at [adrianenev.com](https://adrianenev.com)
+- Built with React
+- Deployed using netlify
+
+## 2) Lunge (AI Fitness Tracker)
 Lunge is a smart assistant for fitness and health, combining nutrition, workouts, and progress tracking in one platform. 
 It uses React, Firebase, Node.js, and other technologies!
 
@@ -23,7 +29,7 @@ It uses React, Firebase, Node.js, and other technologies!
 - 📱 **Lunge: frontend (mobile)** — UI built with React Native for the mobile app's frontend  
 - 💻 **Lunge: frontend (web)** — UI built with React for the web app's frontend
 
-## 2) "Booking"
+## 3) "Booking"
 A simple web app for appointment booking. 
 - Developed for learning purposes
 - Features a simple home page to show services offered and a map for the location
