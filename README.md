@@ -10,7 +10,7 @@ const Adrian: Developer = {
     code: ["Javascript", "Typescript"],
     technologies: {
         backEnd: ["Node.js", "Express"],
-        frontEnd: ["HTML", "CSS", "Javascript", "Typescript", "React"]
+        frontEnd: ["HTML", "CSS", "Javascript", "Typescript", "React"],
     summon: () => window.open("https://adrianenev.com", "_blank"),
 };
 ```
