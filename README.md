@@ -11,6 +11,7 @@ const Adrian: Developer = {
     technologies: {
         backEnd: ["Node.js", "Express"],
         frontEnd: ["HTML", "CSS", "Javascript", "Typescript", "React"]
+    summon: () => window.open("https://adrianenev.com", "_blank"),
 };
 ```
 
