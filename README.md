@@ -11,7 +11,7 @@ const Adrian: Developer = {
     technologies: {
         backEnd: ["Node.js", "Express"],
         frontEnd: ["HTML", "CSS", "Javascript", "Typescript", "React"],
-    openPortfolio: () => "[launchPortfolio()](https://adrianenev.com)"
+    openPortfolio: () => window.open("https://adrianenev.com", "_blank")
 };
 ```
 
