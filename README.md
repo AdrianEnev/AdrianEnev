@@ -19,7 +19,7 @@ const Adrian: Developer = {
 # 🚀 Projects
 ## 1) Portfolio (work in progress)
 My own personal portfolio, showcasing all my skills and work.
-Available at [adrianenev.com](https://adrianenev.com)
+Available at [adrianenev.com](https://adrianenev.com) (labeled as "Designed for iPad" by mistake!... will fix soon)
 - Built with React
 - Deployed using netlify
 
